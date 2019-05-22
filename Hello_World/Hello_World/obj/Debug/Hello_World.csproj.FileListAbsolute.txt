@@ -1,0 +1,7 @@
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\bin\Debug\Hello_World.exe.config
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\obj\Debug\Hello_World.csprojAssemblyReference.cache
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\Austin Hodgin\Documents\Learning_C_Sharp\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
