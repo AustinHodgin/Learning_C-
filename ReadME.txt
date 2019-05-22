@@ -1,0 +1,1 @@
+This is a folder contatining all my projects that I have done while learning C#
